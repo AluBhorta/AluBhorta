@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I'm a Full Stack Software Engineer with expertise in Node.js and Python ecosystems, and the proclivity to leverage the Cloud for higher scalablity, security and robustness. ☁️
+I'm a Full Stack Software Engineer with expertise in Node.js and Python ecosystems. 🌱
+
+Expreienced in building secure, scalable and robust applications by leveraging the Cloud. ☁️
 
 Highly obsessed with System Design, Architecture and Containers. 🐋
 
