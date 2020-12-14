@@ -8,7 +8,7 @@ Highly obsessed with System Design, Architecture and Containers. 🐋
 
 Believes in continuous learning, integration & startups. 🔁
 
-Currently looking for a remote dev role on a fun and engaging team. 👨‍💻
+Currently working remotely and architecting apps of planet scale. 👨‍💻
 
 Get in touch via [mail](mailto:dev.bhorta@gmail.com). 📬
 
