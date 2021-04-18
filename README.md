@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-Software Solutions Architect with a passion for building secure, scalable and robust applications by leveraging the Cloud. ☁️
+Solutions Architect with a passion for building secure, scalable and robust applications by leveraging the Cloud. ☁️
 
 Highly obsessed with Clean Code, System Design, Distributed Systems and Startups. 🎨
 
